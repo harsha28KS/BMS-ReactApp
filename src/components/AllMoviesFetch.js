@@ -12,8 +12,7 @@ function AllMoviesFetch(){
     useEffect(() => {
         async function getMovies() {
             try {
-                // const response = await axios.get('http://localhost:5000/movies');
-                const response = await axios.get('https://bms-backend12.onrender.com/movies');
+                const response = await axios.get('http://localhost:5000/movies');
                 // console.log(response);
                 // console.log(response.data);
                 setData(response.data);
