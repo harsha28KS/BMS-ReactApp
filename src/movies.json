@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "image":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kgf-et00042769-15-12-2020-08-08-47.jpg",
+        "title":"KGF",
+        "actor":"Yash"
+    },
+    {
+        "id":2,
+        "image":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/vikrant-rona-et00128225-1657019014.jpg",
+        "title":"Vikrant Rona",
+        "actor":"Kiccha Sudeep"
+    },
+    {
+        "id":3,
+        "image":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kgf-chapter-2-et00098647-08-04-2022-11-33-32.jpg",
+        "title":"KGF 2",
+        "actor":"Yash"
+    },
+    {
+        "id":4,
+        "image":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kantara-kannada-et00330541-1667307802.jpg",
+        "title":"Kantara",
+        "actor":"Rishab Shetty"
+    }, 
+    {
+        "id":5,
+        "image":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/avane-srimannarayana-asn-et00077148-26-10-2020-01-23-15.jpg",
+        "title":"Avane Srimannarayana",
+        "actor":"Rakshith Shetty"
+    }
+]
