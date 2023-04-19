@@ -16,7 +16,7 @@ function SingleMovieFetch(){
         async function getSingleMovieFetch() {
             try {
                 // const response = await axios.get(`http://localhost:5000/movie/${movid}`);
-                const response = await axios.get(`https://bms-backend12.onrender.com/movie/${movid}`);
+                const response = await axios.get(`https://bms-backend-gs3k.onrender.com/movie/${movid}`);
                 // console.log(response);
                 // console.log([response.data]);
                 setSingleData([response.data]);

@@ -29,7 +29,7 @@ function Registration(){
         // const response = await axios.post('http://localhost:5000/user-register', userDetails);
         await axios
         // .post('http://localhost:5000/user-register', userDetails)
-        .post('https://bms-backend12.onrender.com/user-register', userDetails)
+        .post('https://bms-backend-gs3k.onrender.com/user-register', userDetails)
         .then((data) => {Swal.fire({
             icon: 'success',
             // title: 'Submitted !!!!',
